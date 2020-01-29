@@ -1,0 +1,6 @@
+C:\Users\Dim\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Dim\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Dim\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Dim\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Dim\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Dim\Documents\Visual Studio 2013\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
